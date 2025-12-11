@@ -17,6 +17,6 @@
   The datasets used in this project are well-known training resources originating from the 
   Titanic survival dataset, which is widely used for introductory data analysis and machine learning practice. 
   The notebook exercises build on standard examples commonly found in documentation and online tutorials for 
-  pandas, seaborn, and matplotlib. These materials served as a reference point while producing my own walkthroughs 
+  pandas, seaborn, and matplotlib. These materials served as a reference point whilst producing my own walkthroughs 
   and exploratory analysis.
 </p>
